@@ -1,0 +1,4 @@
+flask
+datetime
+flask_sqlalchemy
+pymysql
